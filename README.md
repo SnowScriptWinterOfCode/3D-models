@@ -39,9 +39,9 @@ You can refer to the following resources on Git and Github to get started and co
 
 ## Install and learn to use Blender
 
-[Install Blender](https://www.blender.org/download/)
+[Install Blender here!](https://www.blender.org/download/)
 
-Follow any beginners' tutorial to design your first 3D model! You can start with [this](www.youtube.com/@blenderguru)
+Follow any beginners' tutorial to design your first 3D model! You can start with [this](www.youtube.com/@blenderguru).
 
 ## Please Note
 
