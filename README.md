@@ -1,9 +1,7 @@
 # 3D Models
 
-<p align="center">
-  ![image](https://github.com/GDSC-IGDTUW-Autumn-of-Code-2022/3D-Models/assets/89780894/cad84b7b-246b-4acb-909c-6adc93686fa2)
+![image](https://github.com/rhymasharma/3D-models/assets/97171261/57bfad59-c46f-41a9-8bb9-55d5fef8ccc0)
 
-</p> 
 
 A repository for submitting your 3D Models for the GDSC IGDTUW Snowscript Winter of Code program.
 
@@ -11,6 +9,9 @@ A repository for submitting your 3D Models for the GDSC IGDTUW Snowscript Winter
 @rhymasharma and @Nitya-Pasrija
 
 Feel free to reach out to the maintainers if you feel stuck, or wish to report someone.
+
+## Reviewers
+@dubeyayushi, @Anshikaa10, @deepaliphogat, @himanshi027, @radhikaag
 
 ## CONTRIBUTING TO THIS PROJECT
 
@@ -27,7 +28,7 @@ Feel free to reach out to the maintainers if you feel stuck, or wish to report s
 
 
 You can take up any of the existing issues or create a new issue to contribute any of your models and descriptions!<br/> 
-Contribution period ends: 26 January 2024
+Contribution period ends: 28 January 2024
 
 
 ## How to get started?
