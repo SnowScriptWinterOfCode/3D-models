@@ -11,7 +11,7 @@ A repository for submitting your 3D Models for the GDSC IGDTUW Snowscript Winter
 Feel free to reach out to the maintainers if you feel stuck, or wish to report someone.
 
 ## Reviewers
-@dubeyayushi, @Anshikaa10, @deepaliphogat, @himanshi027, @radhikaag
+@dubeyayushi, @Anshikaa10, @deepaliphogat, @himanshi027, @radhikaa-gupta
 
 ## CONTRIBUTING TO THIS PROJECT
 
